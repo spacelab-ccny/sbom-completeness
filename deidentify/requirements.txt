@@ -1,0 +1,1 @@
+cyclonedx-python-lib>=11.0.0,<12.0.0

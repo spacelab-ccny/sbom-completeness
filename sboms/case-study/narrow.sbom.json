@@ -1,0 +1,2004 @@
+{
+    "components": [
+        {
+            "bom-ref": "BomRef.060212624171178786.9840956843888784",
+            "cpe": "cpe:2.3:h:qualcomm:atheros_qca9563:*:*:*:*:*:*:*:*",
+            "description": "Wireless SoC by Qualcomm",
+            "externalReferences": [
+                {
+                    "type": "website",
+                    "url": "https://www.tomoyan.net/_media/hardware/gl-ar750s-ext/qca9563_ds.pdf"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Qualcomm"
+                    }
+                }
+            ],
+            "name": "Qualcomm Atheros QCA9563",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Until hardware support ends"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Qualcomm",
+            "purl": "pkg:generic/qualcomm_atheros_qca9563",
+            "type": "device",
+            "version": ""
+        },
+        {
+            "bom-ref": "BomRef.9490803276624489.60065773832442",
+            "cpe": "cpe:2.3:a:nxp:nxp_sdk:2.9.0:*:*:*:*:*:*:*",
+            "description": "SDK for building applications using NXP microcontrollers",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://github.com/nxp-mcuxpresso/mcux-sdk"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "NXP"
+                    }
+                }
+            ],
+            "name": "NXP SDK",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "NXP",
+            "purl": "pkg:github/nxp-mcuxpresso/mcux-sdk",
+            "type": "firmware",
+            "version": "2.9.0"
+        },
+        {
+            "bom-ref": "BomRef.6730320963532548.7863229239413411",
+            "cpe": "cpe:2.3:a:wolfssl:wolfssl:4.8.1:*:*:*:*:*:*:*",
+            "description": "Embedded SSL/TLS library",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://github.com/wolfSSL/wolfssl"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "GPLv3/Commercial"
+                    }
+                }
+            ],
+            "name": "WolfSSL",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "wolfSSL",
+            "purl": "pkg:github/wolfssl/wolfssl",
+            "type": "firmware",
+            "version": "4.8.1"
+        },
+        {
+            "bom-ref": "BomRef.15735835545250698.3370216198042474",
+            "cpe": "cpe:2.3:a:chan:fatfs:r0.13:*:*:*:*:*:*:*",
+            "description": "Read/write to FAT filesystems",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://github.com/abbrev/fatfs"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "FatFs License"
+                    }
+                }
+            ],
+            "name": "fatFS",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "ChaN",
+            "purl": "pkg:github/abbrev/fatfs",
+            "type": "firmware",
+            "version": "0.13c"
+        },
+        {
+            "bom-ref": "BomRef.7521404119433356.9894891843456295",
+            "cpe": "cpe:2.3:a:aspose:asposewords:20.1.0:*:*:*:*:*:*:*",
+            "description": "Class library for processing word documents",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Aspose.Words/20.1.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MPL-2.0"
+                    }
+                }
+            ],
+            "name": "Aspose.Words",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Unknown"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Aspose",
+            "purl": "pkg:nuget/Aspose.Words@20.1.0",
+            "type": "library",
+            "version": "20.1.0"
+        },
+        {
+            "bom-ref": "BomRef.7268893343800462.3820786989013921",
+            "cpe": "cpe:2.3:a:jimmy_bogard:automapper:8.1.0:*:*:*:*:*:*:*",
+            "description": "Object-object mapper for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/AutoMapper/8.1.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "AutoMapper",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Jimmy Bogard",
+            "purl": "pkg:nuget/AutoMapper@8.1.0",
+            "type": "library",
+            "version": "8.1.0"
+        },
+        {
+            "bom-ref": "BomRef.2736880496660168.8722416254170887",
+            "cpe": "cpe:2.3:a:autofac_project:autofac:4.8.1:*:*:*:*:*:*:*",
+            "description": "Inversion of control (IoC) container for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Autofac/4.8.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "Autofac",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Autofac Project",
+            "purl": "pkg:nuget/Autofac@4.8.1",
+            "type": "library",
+            "version": "4.8.1"
+        },
+        {
+            "bom-ref": "BomRef.7734498446863958.09617545465062771",
+            "cpe": "cpe:2.3:a:the_legion_of_the_bouncy_castle_inc.:bouncycastle:1.8.1:*:*:*:*:*:*:*",
+            "description": "Collection of cryptographic APIs for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/BouncyCastle/1.8.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT/BOUNCY CASTLE LICENSE"
+                    }
+                }
+            ],
+            "name": "BouncyCastle",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Unknown"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "The Legion of the Bouncy Castle Inc.",
+            "purl": "pkg:nuget/BouncyCastle@1.8.1",
+            "type": "library",
+            "version": "1.8.1"
+        },
+        {
+            "bom-ref": "BomRef.3438285075783568.6140224672154322",
+            "cpe": "cpe:2.3:a:castle_project:castlecore:4.4.0:*:*:*:*:*:*:*",
+            "description": "Core library for the Castle Project",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Castle.Core/4.4.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "Castle.Core",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Castle Project",
+            "purl": "pkg:nuget/Castle.Core@4.4.0",
+            "type": "library",
+            "version": "4.4.0"
+        },
+        {
+            "bom-ref": "BomRef.019375286115863366.22040848517463307",
+            "cpe": "cpe:2.3:a:net-common:commonlogging:3.3.1:*:*:*:*:*:*:*",
+            "description": "A simple abstraction to allow you to select a specific logging implementation at runtime",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Common.Logging/3.3.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "Common.Logging",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Unknown"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Inactive"
+                }
+            ],
+            "publisher": "Net-Common",
+            "purl": "pkg:nuget/Common.Logging@3.3.1",
+            "type": "library",
+            "version": "3.3.1"
+        },
+        {
+            "bom-ref": "BomRef.30829041557066206.2558410755161311",
+            "cpe": "cpe:2.3:a:net-common:commonloggingcore:3.3.1:*:*:*:*:*:*:*",
+            "description": "Core library for Common.Logging",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Common.Logging.Core/3.3.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "Common.Logging.Core",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Unknown"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Inactive"
+                }
+            ],
+            "publisher": "Net-Common",
+            "purl": "pkg:nuget/Common.Logging.Core@3.3.1",
+            "type": "library",
+            "version": "3.3.1"
+        },
+        {
+            "bom-ref": "BomRef.0646550300639096.40445065575880046",
+            "cpe": "cpe:2.3:a:stack_exchange:dapper:1.50.4:*:*:*:*:*:*:*",
+            "description": "Simple object mapper for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Dapper/1.50.4"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "Dapper",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Stack Exchange",
+            "purl": "pkg:nuget/Dapper@1.50.4",
+            "type": "library",
+            "version": "1.50.4"
+        },
+        {
+            "bom-ref": "BomRef.5170461173083726.13176430106698844",
+            "cpe": "cpe:2.3:a:eric_coffman:dappersimplecrud:1.13.0:*:*:*:*:*:*:*",
+            "description": "Simple CRUD operations for Dapper",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Dapper.SimpleCRUD/1.13.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "Dapper.SimpleCRUD",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Inactive"
+                }
+            ],
+            "publisher": "Eric Coffman",
+            "purl": "pkg:nuget/Dapper.SimpleCRUD@1.13.0",
+            "type": "library",
+            "version": "1.13.0"
+        },
+        {
+            "bom-ref": "BomRef.4225999725196311.23830141098441315",
+            "cpe": "cpe:2.3:a:epplus_software:epplus:4.5.2.1:*:*:*:*:*:*:*",
+            "description": "Library for managing Excel spreadsheets",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/EPPlus/4.5.2.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Polyform Noncommercial License 1.0.0"
+                    }
+                }
+            ],
+            "name": "EPPlus",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "EPPlus Software",
+            "purl": "pkg:nuget/EPPlus@4.5.2.1",
+            "type": "library",
+            "version": "4.5.2.1"
+        },
+        {
+            "bom-ref": "BomRef.09332901078452716.6523829146012213",
+            "cpe": "cpe:2.3:a:jeremy_skinner:fluentvalidation:7.0.0:*:*:*:*:*:*:*",
+            "description": ".NET library for building strongly-typed validation rules",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/FluentValidation/7.0.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "FluentValidation",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Jeremy Skinner",
+            "purl": "pkg:nuget/FluentValidation@7.0.0",
+            "type": "library",
+            "version": "7.0.0"
+        },
+        {
+            "bom-ref": "BomRef.8121031131672664.10190141536960595",
+            "cpe": "cpe:2.3:a:nathan_arnott:fluentvalidationna:1.2.16:*:*:*:*:*:*:*",
+            "description": "FluentValidation extensions",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/FluentValidationNA/1.2.16"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Unknown"
+                    }
+                }
+            ],
+            "name": "FluentValidationNA",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "No longer supported"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Deprecated"
+                }
+            ],
+            "publisher": "Nathan Arnott",
+            "purl": "pkg:nuget/FluentValidationNA@1.2.16",
+            "type": "library",
+            "version": "1.2.16"
+        },
+        {
+            "bom-ref": "BomRef.861359195513385.11803108632324111",
+            "cpe": "cpe:2.3:a:charri:fontawesomewpf:4.7.0.9:*:*:*:*:*:*:*",
+            "description": "Library to use FontAwesome icons in WPF applications",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/FontAwesome.WPF/4.7.0.9"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "FontAwesome.WPF",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Charri",
+            "purl": "pkg:nuget/FontAwesome.WPF@4.7.0.9",
+            "type": "library",
+            "version": "4.7.0.9"
+        },
+        {
+            "bom-ref": "BomRef.6582308179049549.5652387661262241",
+            "cpe": "cpe:2.3:a:michael_hompus:hompusvideoinputdevices:0.5.0:*:*:*:*:*:*:*",
+            "description": "Library for video input devices",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Hompus.VideoInputDevices/0.5.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "Hompus.VideoInputDevices",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Michael Hompus",
+            "purl": "pkg:nuget/Hompus.VideoInputDevices@0.5.0",
+            "type": "library",
+            "version": "0.5.0"
+        },
+        {
+            "bom-ref": "BomRef.9884650641886559.6768714643515833",
+            "cpe": "cpe:2.3:a:infralution:infralutionlocalizationwpf:3.9.7:*:*:*:*:*:*:*",
+            "description": "Library for WPF localization using RESX files",
+            "externalReferences": [
+                {
+                    "type": "website",
+                    "url": "https://www.codeproject.com/Articles/35159/WPF-Localization-Using-RESX-Files"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "The Code Project Open License (CPOL)"
+                    }
+                }
+            ],
+            "name": "Infralution.Localization.Wpf",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Inactive"
+                }
+            ],
+            "publisher": "Infralution",
+            "purl": "pkg:generic/Infralution.Localization.Wpf@3.9.7",
+            "type": "library",
+            "version": "3.9.7"
+        },
+        {
+            "bom-ref": "BomRef.028851817998087448.1810619277685378",
+            "cpe": "cpe:2.3:a:mariusz_gromada:mathparserorg-mxparser:4.3.3:*:*:*:*:*:*:*",
+            "description": "Math expression parser/evaluator library for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/MathParser.org-mXparser/4.3.3"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MathParser.org-mXparser DUAL LICENSE AGREEMENT"
+                    }
+                }
+            ],
+            "name": "MathParser.org-mXparser",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Mariusz Gromada",
+            "purl": "pkg:nuget/MathParser.org-mXparser@4.3.3",
+            "type": "library",
+            "version": "4.3.3"
+        },
+        {
+            "bom-ref": "BomRef.9119003669033975.34248011969249803",
+            "cpe": "cpe:2.3:a:clarius_consulting:moq:4.12.0:*:*:*:*:*:*:*",
+            "description": "Mocking library for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Moq/4.12.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "BSD-3-Clause"
+                    }
+                }
+            ],
+            "name": "Moq",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Clarius Consulting",
+            "purl": "pkg:nuget/Moq@4.12.0",
+            "type": "library",
+            "version": "4.12.0"
+        },
+        {
+            "bom-ref": "BomRef.7250968995916397.4732589161133437",
+            "cpe": "cpe:2.3:a:mark_heath:naudio:2.0.1:*:*:*:*:*:*:*",
+            "description": "Audio and MIDI library for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/NAudio/2.0.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Mark Heath"
+                    }
+                }
+            ],
+            "name": "NAudio",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Mark Heath",
+            "purl": "pkg:nuget/NAudio@2.0.1",
+            "type": "library",
+            "version": "2.0.1"
+        },
+        {
+            "bom-ref": "BomRef.5326465887173311.08472951937812645",
+            "cpe": "cpe:2.3:a:mark_heath:naudioasio:2.0.0:*:*:*:*:*:*:*",
+            "description": "ASIO support for NAudio",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/NAudio.Asio/2.0.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "NAudio.Asio",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Mark Heath",
+            "purl": "pkg:nuget/NAudio.Asio@2.0.0",
+            "type": "library",
+            "version": "2.0.0"
+        },
+        {
+            "bom-ref": "BomRef.22700277968479454.5698955041429233",
+            "cpe": "cpe:2.3:a:mark_heath:naudiocore:2.0.0:*:*:*:*:*:*:*",
+            "description": "Core library for NAudio",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/NAudio.Core/2.0.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "NAudio.Core",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Mark Heath",
+            "purl": "pkg:nuget/NAudio.Core@2.0.0",
+            "type": "library",
+            "version": "2.0.0"
+        },
+        {
+            "bom-ref": "BomRef.8040079844963377.08259872946737412",
+            "cpe": "cpe:2.3:a:mark_heath:naudiomidi:2.0.1:*:*:*:*:*:*:*",
+            "description": "MIDI support for NAudio",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/NAudio.Midi/2.0.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "NAudio.Midi",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Mark Heath",
+            "purl": "pkg:nuget/NAudio.Midi@2.0.1",
+            "type": "library",
+            "version": "2.0.1"
+        },
+        {
+            "bom-ref": "BomRef.8462685098512741.2795442863385209",
+            "cpe": "cpe:2.3:a:mark_heath:naudiowasapi:2.0.0:*:*:*:*:*:*:*",
+            "description": "WASAPI support for NAudio",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/NAudio.Wasapi/2.0.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "NAudio.Wasapi",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Mark Heath",
+            "purl": "pkg:nuget/NAudio.Wasapi@2.0.0",
+            "type": "library",
+            "version": "2.0.0"
+        },
+        {
+            "bom-ref": "BomRef.8434014467306364.9573873844145905",
+            "cpe": "cpe:2.3:a:mark_heath:naudiowinforms:2.0.1:*:*:*:*:*:*:*",
+            "description": "WinForms support for NAudio",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/NAudio.WinForms/2.0.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "NAudio.WinForms",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Mark Heath",
+            "purl": "pkg:nuget/NAudio.WinForms@2.0.1",
+            "type": "library",
+            "version": "2.0.1"
+        },
+        {
+            "bom-ref": "BomRef.7703520316236464.4305324071021991",
+            "cpe": "cpe:2.3:a:mark_heath:naudiowinmm:2.0.1:*:*:*:*:*:*:*",
+            "description": "WinMM support for NAudio",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/NAudio.WinMM/2.0.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "NAudio.WinMM",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Mark Heath",
+            "purl": "pkg:nuget/NAudio.WinMM@2.0.1",
+            "type": "library",
+            "version": "2.0.1"
+        },
+        {
+            "bom-ref": "BomRef.850529243238828.3451421372715596",
+            "cpe": "cpe:2.3:a:.net_foundation:netstandardlibrary:1.6.1:*:*:*:*:*:*:*",
+            "description": "Library to target .NET Standard",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/NETStandard.Library/1.6.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Unknown"
+                    }
+                }
+            ],
+            "name": "NETStandard.Library",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": ".NET Foundation",
+            "purl": "pkg:nuget/NETStandard.Library@1.6.1",
+            "type": "library",
+            "version": "1.6.1"
+        },
+        {
+            "bom-ref": "BomRef.4814090846817386.05119836446118042",
+            "cpe": "cpe:2.3:a:nlog_project:nlog:4.5.11:*:*:*:*:*:*:*",
+            "description": "Logging library for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/NLog/4.5.11"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "BSD-3-Clause"
+                    }
+                }
+            ],
+            "name": "NLog",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "NLog Project",
+            "purl": "pkg:nuget/NLog@4.5.11",
+            "type": "library",
+            "version": "4.5.11"
+        },
+        {
+            "bom-ref": "BomRef.4014841430750494.27579516654387515",
+            "cpe": "cpe:2.3:a:nlog_project:nlogconfig:4.5.11:*:*:*:*:*:*:*",
+            "description": "Configuration library for NLog",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/NLog.Config/4.5.11"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "BSD-3-Clause"
+                    }
+                }
+            ],
+            "name": "NLog.Config",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Deprecated"
+                }
+            ],
+            "publisher": "NLog Project",
+            "purl": "pkg:nuget/NLog.Config@4.5.11",
+            "type": "library",
+            "version": "4.5.11"
+        },
+        {
+            "bom-ref": "BomRef.33464324570497317.695529472276821",
+            "cpe": "cpe:2.3:a:nlog_project:nlogschema:4.5.11:*:*:*:*:*:*:*",
+            "description": "Schema library for NLog",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/NLog.Schema/4.5.11"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "BSD-3-Clause"
+                    }
+                }
+            ],
+            "name": "NLog.Schema",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "NLog Project",
+            "purl": "pkg:nuget/NLog.Schema@4.5.11",
+            "type": "library",
+            "version": "4.5.11"
+        },
+        {
+            "bom-ref": "BomRef.8705914649556505.18593095724711484",
+            "cpe": "cpe:2.3:a:james_newton-king:newtonsoftjson:9.0.1:*:*:*:*:*:*:*",
+            "description": "JSON framework for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Newtonsoft.Json/9.0.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "Newtonsoft.Json",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "James Newton-King",
+            "purl": "pkg:nuget/Newtonsoft.Json@9.0.1",
+            "type": "library",
+            "version": "9.0.1"
+        },
+        {
+            "bom-ref": "BomRef.11044931876360453.9335429103197289",
+            "cpe": "cpe:2.3:a:stephen_cleary:nitoasyncex:4.0.1:*:*:*:*:*:*:*",
+            "description": "Async library for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Nito.AsyncEx/4.0.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "Nito.AsyncEx",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Stephen Cleary",
+            "purl": "pkg:nuget/Nito.AsyncEx@4.0.1",
+            "type": "library",
+            "version": "4.0.1"
+        },
+        {
+            "bom-ref": "BomRef.4422129713473987.49557962934180033",
+            "cpe": "cpe:2.3:a:shimat:opencvsharp4:4.9.0.20240103:*:*:*:*:*:*:*",
+            "description": "OpenCV bindings for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/OpenCvSharp4/4.9.0.20240103"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "OpenCvSharp4",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "shimat",
+            "purl": "pkg:nuget/OpenCvSharp4@4.9.0.20240103",
+            "type": "library",
+            "version": "4.9.0.20240103"
+        },
+        {
+            "bom-ref": "BomRef.6043227029417055.32800618789458946",
+            "cpe": "cpe:2.3:a:shimat:opencvsharp4extensions:4.9.0.20240103:*:*:*:*:*:*:*",
+            "description": "Extensions for OpenCvSharp4",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/OpenCvSharp4.Extensions/4.9.0.20240103"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "OpenCvSharp4.Extensions",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "shimat",
+            "purl": "pkg:nuget/OpenCvSharp4.Extensions@4.9.0.20240103",
+            "type": "library",
+            "version": "4.9.0.20240103"
+        },
+        {
+            "bom-ref": "BomRef.027784305497743356.19878876422130543",
+            "cpe": "cpe:2.3:a:owin_project:owin:1:*:*:*:*:*:*:*",
+            "description": "Library for building middleware in .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Owin/1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "Owin",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "OWIN Project",
+            "purl": "pkg:nuget/Owin@1",
+            "type": "library",
+            "version": "1"
+        },
+        {
+            "bom-ref": "BomRef.8066081512807309.7064170876328292",
+            "cpe": "cpe:2.3:a:prism_library:prismautofac:6.3.0:*:*:*:*:*:*:*",
+            "description": "Library for using Autofac with Prism",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Prism.Autofac/6.3.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Prism Community/Commercial License"
+                    }
+                }
+            ],
+            "name": "Prism.Autofac",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Prism Library",
+            "purl": "pkg:nuget/Prism.Autofac@6.3.0",
+            "type": "library",
+            "version": "6.3.0"
+        },
+        {
+            "bom-ref": "BomRef.7762185438369745.11984178873655549",
+            "cpe": "cpe:2.3:a:prism_library:prismcore:6.3.0:*:*:*:*:*:*:*",
+            "description": "Core library for Prism",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Prism.Core/6.3.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "Prism.Core",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Prism Library",
+            "purl": "pkg:nuget/Prism.Core@6.3.0",
+            "type": "library",
+            "version": "6.3.0"
+        },
+        {
+            "bom-ref": "BomRef.09074444827592953.8857186591614822",
+            "cpe": "cpe:2.3:a:prism_library:prismunity:6.3.0:*:*:*:*:*:*:*",
+            "description": "Library for using Unity with Prism",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Prism.Unity/6.3.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "Prism.Unity",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Prism Library",
+            "purl": "pkg:nuget/Prism.Unity@6.3.0",
+            "type": "library",
+            "version": "6.3.0"
+        },
+        {
+            "bom-ref": "BomRef.895238420044345.7461865531075247",
+            "cpe": "cpe:2.3:a:prism_library:prismwpf:6.3.0:*:*:*:*:*:*:*",
+            "description": "Library for using WPF with Prism",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Prism.Wpf/6.3.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "Prism.Wpf",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Prism Library",
+            "purl": "pkg:nuget/Prism.Wpf@6.3.0",
+            "type": "library",
+            "version": "6.3.0"
+        },
+        {
+            "bom-ref": "BomRef.044544458200618364.5530058817634022",
+            "cpe": "cpe:2.3:a:jmartin:qmscoringapi:2.0.3562.1:*:*:*:*:*:*:*",
+            "description": "API for quality management scoring",
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Unknown"
+                    }
+                }
+            ],
+            "name": "QMScoringAPI",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Unknown"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Unknown"
+                }
+            ],
+            "publisher": "jmartin",
+            "purl": "pkg:generic/QMScoringAPI@2.0.3562.1",
+            "type": "library",
+            "version": "2.0.3562.1"
+        },
+        {
+            "bom-ref": "BomRef.18625868680966762.30993361860709145",
+            "cpe": "cpe:2.3:a:quartz_project:quartz:2.6.0:*:*:*:*:*:*:*",
+            "description": "Job scheduling library for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Quartz/2.6.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "Quartz",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Quartz Project",
+            "purl": "pkg:nuget/Quartz@2.6.0",
+            "type": "library",
+            "version": "2.6.0"
+        },
+        {
+            "bom-ref": "BomRef.09350082516634906.658073151898213",
+            "cpe": "cpe:2.3:a:rapid7:r7insightcore:2.9.0:*:*:*:*:*:*:*",
+            "description": "Library for logging to Rapid7 InsightOps",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/R7Insight.Core/2.9.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "R7Insight.Core",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Rapid7",
+            "purl": "pkg:nuget/R7Insight.Core@2.9.0",
+            "type": "library",
+            "version": "2.9.0"
+        },
+        {
+            "bom-ref": "BomRef.28734749058085185.6212338388140309",
+            "cpe": "cpe:2.3:a:rapid7:r7insightlog4net:2.9.0:*:*:*:*:*:*:*",
+            "description": "Log4net appender for Rapid7 InsightOps",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/R7Insight.Log4net/2.9.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "R7Insight.Log4net",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Rapid7",
+            "purl": "pkg:nuget/R7Insight.Log4net@2.9.0",
+            "type": "library",
+            "version": "2.9.0"
+        },
+        {
+            "bom-ref": "BomRef.5969329909135581.25902826487252717",
+            "cpe": "cpe:2.3:a:dmitry_baranovskiy:svg:3.4.7:*:*:*:*:*:*:*",
+            "description": "Library for manipulating SVG files in .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Svg/3.4.7"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MS-PL"
+                    }
+                }
+            ],
+            "name": "Svg",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Dmitry Baranovskiy",
+            "purl": "pkg:nuget/Svg@3.4.7",
+            "type": "library",
+            "version": "3.4.7"
+        },
+        {
+            "bom-ref": "BomRef.2535164540459468.6387551545471297",
+            "cpe": "cpe:2.3:a:unity_open_source_project:unityabstractions:4.1.1:*:*:*:*:*:*:*",
+            "description": "Abstractions for Unity dependency injection",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Unity.Abstractions/4.1.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "Unity.Abstractions",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Unity Open Source Project",
+            "purl": "pkg:nuget/Unity.Abstractions@4.1.1",
+            "type": "library",
+            "version": "4.1.1"
+        },
+        {
+            "bom-ref": "BomRef.1302473500628174.9477099228164274",
+            "cpe": "cpe:2.3:a:unity_open_source_project:unitycontainer:5.10.0:*:*:*:*:*:*:*",
+            "description": "Container for Unity dependency injection",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/Unity.Container/5.10.0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "Unity.Container",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Inactive"
+                }
+            ],
+            "publisher": "Unity Open Source Project",
+            "purl": "pkg:nuget/Unity.Container@5.10.0",
+            "type": "library",
+            "version": "5.10.0"
+        },
+        {
+            "bom-ref": "BomRef.9566084769281369.4107852031431055",
+            "cpe": "cpe:2.3:a:jake_ginnivan:vstocontribautofac:0.15.0.122:*:*:*:*:*:*:*",
+            "description": "Library for using Autofac with VSTO",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/VSTOContrib.Autofac/0.15.0.122"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Unknown"
+                    }
+                }
+            ],
+            "name": "VSTOContrib.Autofac",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Unknown"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Inactive"
+                }
+            ],
+            "publisher": "Jake Ginnivan",
+            "purl": "pkg:nuget/VSTOContrib.Autofac@0.15.0.122",
+            "type": "library",
+            "version": "0.15.0.122"
+        },
+        {
+            "bom-ref": "BomRef.3007129916981802.33055716818670466",
+            "cpe": "cpe:2.3:a:jake_ginnivan:vstocontribword:0.15.0.122:*:*:*:*:*:*:*",
+            "description": "Library for Word add-ins with VSTO",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/VSTOContrib.Word/0.15.0.122"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "VSTOContrib.Word",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Unknown"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Inactive"
+                }
+            ],
+            "publisher": "Jake Ginnivan",
+            "purl": "pkg:nuget/VSTOContrib.Word@0.15.0.122",
+            "type": "library",
+            "version": "0.15.0.122"
+        },
+        {
+            "bom-ref": "BomRef.7501786187918349.42691116045333566",
+            "cpe": "cpe:2.3:a:xamlanimatedgif:xamlanimatedgif:1.1.10:*:*:*:*:*:*:*",
+            "description": "Library for animating GIFs in XAML",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/XamlAnimatedGif/1.1.10"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "XamlAnimatedGif",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "XamlAnimatedGif",
+            "purl": "pkg:nuget/XamlAnimatedGif@1.1.10",
+            "type": "library",
+            "version": "1.1.10"
+        },
+        {
+            "bom-ref": "BomRef.29776764460679905.21830766818202108",
+            "cpe": "cpe:2.3:a:the_jquery_foundation:jquery:3.1.1:*:*:*:*:*:*:*",
+            "description": "Javascript library",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/jQuery/3.1.1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "MIT"
+                    }
+                }
+            ],
+            "name": "jQuery",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "The jQuery Foundation",
+            "purl": "pkg:nuget/jQuery@3.1.1",
+            "type": "library",
+            "version": "3.1.1"
+        },
+        {
+            "bom-ref": "BomRef.06109838487654462.042583139483296395",
+            "cpe": "cpe:2.3:a:twilio:libphonenumber-csharp:8.10.15:*:*:*:*:*:*:*",
+            "description": ".NET port of Google's libphonenumber library for parsing",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/libphonenumber-csharp/8.10.15"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "libphonenumber-csharp",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Twilio",
+            "purl": "pkg:nuget/libphonenumber-csharp@8.10.15",
+            "type": "library",
+            "version": "8.10.15"
+        },
+        {
+            "bom-ref": "BomRef.45435230008644456.13282961833513973",
+            "cpe": "cpe:2.3:a:the_apache_software_foundation:log4net:2.0.8:*:*:*:*:*:*:*",
+            "description": "Tool to help the programmer output log statements to a variety of output targets",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/log4net/2.0.8"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "log4net",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "The Apache Software Foundation",
+            "purl": "pkg:nuget/log4net@2.0.8",
+            "type": "library",
+            "version": "2.0.8"
+        },
+        {
+            "bom-ref": "BomRef.7440131489260733.9497333019633599",
+            "cpe": "cpe:2.3:a:marc_gravell:protobuf-net:2.3.17:*:*:*:*:*:*:*",
+            "description": "Protocol buffers library for .NET",
+            "externalReferences": [
+                {
+                    "type": "vcs",
+                    "url": "https://www.nuget.org/packages/protobuf-net/2.3.17"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "name": "Apache-2.0"
+                    }
+                }
+            ],
+            "name": "protobuf-net",
+            "properties": [
+                {
+                    "name": "End-of-Support",
+                    "value": "Open source"
+                },
+                {
+                    "name": "Level of Support",
+                    "value": "Actively maintained"
+                }
+            ],
+            "publisher": "Marc Gravell",
+            "purl": "pkg:nuget/protobuf-net@2.3.17",
+            "type": "library",
+            "version": "2.3.17"
+        }
+    ],
+    "dependencies": [
+        {
+            "ref": "BomRef.3007129916981802.33055716818670466"
+        },
+        {
+            "ref": "BomRef.9566084769281369.4107852031431055"
+        },
+        {
+            "ref": "BomRef.11044931876360453.9335429103197289"
+        },
+        {
+            "ref": "BomRef.6730320963532548.7863229239413411"
+        },
+        {
+            "ref": "BomRef.9490803276624489.60065773832442"
+        },
+        {
+            "ref": "BomRef.019375286115863366.22040848517463307"
+        },
+        {
+            "ref": "BomRef.8434014467306364.9573873844145905"
+        },
+        {
+            "ref": "BomRef.7250968995916397.4732589161133437"
+        },
+        {
+            "ref": "BomRef.29776764460679905.21830766818202108"
+        },
+        {
+            "ref": "BomRef.7440131489260733.9497333019633599"
+        },
+        {
+            "ref": "BomRef.8538684141258271.6150057962229712"
+        },
+        {
+            "ref": "BomRef.861359195513385.11803108632324111"
+        },
+        {
+            "ref": "BomRef.060212624171178786.9840956843888784"
+        },
+        {
+            "ref": "BomRef.6582308179049549.5652387661262241"
+        },
+        {
+            "ref": "BomRef.09074444827592953.8857186591614822"
+        },
+        {
+            "ref": "BomRef.028851817998087448.1810619277685378"
+        },
+        {
+            "ref": "BomRef.850529243238828.3451421372715596"
+        },
+        {
+            "ref": "BomRef.7703520316236464.4305324071021991"
+        },
+        {
+            "ref": "BomRef.7501786187918349.42691116045333566"
+        },
+        {
+            "ref": "BomRef.15735835545250698.3370216198042474"
+        },
+        {
+            "ref": "BomRef.18625868680966762.30993361860709145"
+        },
+        {
+            "ref": "BomRef.7734498446863958.09617545465062771"
+        },
+        {
+            "ref": "BomRef.06109838487654462.042583139483296395"
+        },
+        {
+            "ref": "BomRef.7268893343800462.3820786989013921"
+        },
+        {
+            "ref": "BomRef.2535164540459468.6387551545471297"
+        },
+        {
+            "ref": "BomRef.9884650641886559.6768714643515833"
+        },
+        {
+            "ref": "BomRef.044544458200618364.5530058817634022"
+        },
+        {
+            "ref": "BomRef.5170461173083726.13176430106698844"
+        },
+        {
+            "ref": "BomRef.22700277968479454.5698955041429233"
+        },
+        {
+            "ref": "BomRef.28734749058085185.6212338388140309"
+        },
+        {
+            "ref": "BomRef.1302473500628174.9477099228164274"
+        },
+        {
+            "ref": "BomRef.4225999725196311.23830141098441315"
+        },
+        {
+            "ref": "BomRef.8705914649556505.18593095724711484"
+        },
+        {
+            "ref": "BomRef.30829041557066206.2558410755161311"
+        },
+        {
+            "ref": "BomRef.0646550300639096.40445065575880046"
+        },
+        {
+            "ref": "BomRef.3438285075783568.6140224672154322"
+        },
+        {
+            "ref": "BomRef.09332901078452716.6523829146012213"
+        },
+        {
+            "ref": "BomRef.8121031131672664.10190141536960595"
+        },
+        {
+            "ref": "BomRef.7521404119433356.9894891843456295"
+        },
+        {
+            "ref": "BomRef.9119003669033975.34248011969249803"
+        },
+        {
+            "ref": "BomRef.33464324570497317.695529472276821"
+        },
+        {
+            "ref": "BomRef.4422129713473987.49557962934180033"
+        },
+        {
+            "ref": "BomRef.7762185438369745.11984178873655549"
+        },
+        {
+            "ref": "BomRef.5969329909135581.25902826487252717"
+        },
+        {
+            "ref": "BomRef.027784305497743356.19878876422130543"
+        },
+        {
+            "ref": "BomRef.6043227029417055.32800618789458946"
+        },
+        {
+            "ref": "BomRef.45435230008644456.13282961833513973"
+        },
+        {
+            "ref": "BomRef.8462685098512741.2795442863385209"
+        },
+        {
+            "ref": "BomRef.4814090846817386.05119836446118042"
+        },
+        {
+            "ref": "BomRef.5326465887173311.08472951937812645"
+        },
+        {
+            "ref": "BomRef.8040079844963377.08259872946737412"
+        },
+        {
+            "ref": "BomRef.2736880496660168.8722416254170887"
+        },
+        {
+            "ref": "BomRef.895238420044345.7461865531075247"
+        },
+        {
+            "ref": "BomRef.09350082516634906.658073151898213"
+        },
+        {
+            "ref": "BomRef.4014841430750494.27579516654387515"
+        },
+        {
+            "ref": "BomRef.8066081512807309.7064170876328292"
+        }
+    ],
+    "metadata": {
+        "authors": [
+            {
+                "email": "REDACTED@NOWHERE.COM",
+                "name": "REDACTED",
+                "phone": "REDACTED"
+            }
+        ],
+        "component": {
+            "author": "REDACTED",
+            "bom-ref": "BomRef.8538684141258271.6150057962229712",
+            "name": "REDACTED",
+            "type": "device"
+        },
+        "timestamp": "2025-07-23T20:52:41.344402+00:00"
+    },
+    "serialNumber": "urn:uuid:02826796-d30c-4aa6-b0a8-44207a01cb6c",
+    "version": 1,
+    "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
+    "bomFormat": "CycloneDX",
+    "specVersion": "1.4"
+}
