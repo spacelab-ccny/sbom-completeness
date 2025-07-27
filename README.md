@@ -1,6 +1,6 @@
-# Compliance without Completeness
+# Compliance v. Completeness
 
-## A Case Study on SBOMs in Light of FDA Premarket Cybersecurity Guidance
+## A Case Study on SBOMs in Consideration of FDA Premarket Cybersecurity Guidance
 
 Code for the paper by Logan Kostick (Johns Hopkins University), Michael Rushanan (Harbor Labs), and Tushar M. Jois (City College of New York)
 
